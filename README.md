@@ -6,10 +6,6 @@ The goal of this free-to-use code samples is to give some insights to lesser kno
 
 Autodesk VRED offers a plethora of python scripting samples and snippets that are really great and helpful. But some scripting techniques and API features are either not documented or covered in the API samples. This repository offers some examples that show these advanced features.
 
-### Looking for an Autodesk VRED consultant / technical adviser / coding coach / programmer?
-- It's your lucky day! I'm offering my services as the above mentioned!
-- Please contact me via my github account or via chr33z@gmail.com
-
 ### Table of Contents:
   #### Intermediate scripting techniques:
   - [A camera position readout class with AEBase](samples/camera-position-readout.py)
@@ -18,3 +14,8 @@ Autodesk VRED offers a plethora of python scripting samples and snippets that ar
   - [Using a camera stream as a backplate](samples/video-backplate.py)
   #### Advanced API Concepts:
   - [The VRED vrMessageService](samples/vred-message-service.py)
+
+---
+### Looking for an Autodesk VRED consultant / technical adviser / coding coach / programmer?
+- It's your lucky day! I'm offering my services as the above mentioned!
+- Please contact me via my github account or via chr33z@gmail.com
