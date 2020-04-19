@@ -2,7 +2,8 @@
 
 # This script will cycle through all variant sets that are not contained in a group
 # and load the containing geometry. To test this example. you will have to create
-# some variant sets that contain different geometries
+# some variant sets that contain different geometries.
+# This script is designed to run five times in a row
 
 
 import threading
